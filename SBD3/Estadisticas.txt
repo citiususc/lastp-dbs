@@ -1,0 +1,34 @@
+ESTADISTICAS FINALES
+--------------------
+
+PATRONES
+	Patrones generados = 1	Soporte = 4000
+	Tipo de patrones = Patrones MDT. Las instancias de cada patrón se han introducido en sujetos distintos
+	¿Patrones Consecutivos? = false
+	¿Los patrones deben indicar el instante en el que comienzan? = false
+	Longitud media de los patrones. 
+		Esperada = 14. Real = 14.0
+	Longitud máxima esperada de los patrones = 14
+		mingap = 0,	maxGap = 80
+	Duración máxima del patrón (Window) = 65
+	Máximo número de tipos de eventos a usar en un patrón = 14
+	¿Repetir tipos de eventos en los patrones? = false
+
+
+SECUENCIAS
+	Numero de Secuencias = 30
+	Promedio de transacciones por secuencia. 
+		Esperado = 5500, real = 3185.4666666666667
+	Número máximo de transacciones esperado = 8500
+		¿Transacciones de igual longitud? = false
+		Tamaño promedio de una transaccion = 1
+		Tamaño máximo de una transacción = 3
+		Distancia media de separación entre dos transacciones. 
+			Esperado 5, real = 2.8333333333333335
+		Distancia máxima de separación entre dos transacciones = 10
+	Máxima duración temporal que puede alcanzar una secuencia = 9920
+
+EVENTOS
+	El dominio de los eventos es de 14 valores
+	Duracion de los eventos. Mínimo = 1, máximo = 15
+	Promedio de duración de los eventos = 10

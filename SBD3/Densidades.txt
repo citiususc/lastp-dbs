@@ -1,0 +1,33 @@
+La coleccion consiste en 30 secuencias
+Secuencia 0 eventos: 4777 - densidad: 0,4816
+Secuencia 1 eventos: 5272 - densidad: 0,5317
+Secuencia 2 eventos: 5395 - densidad: 0,5439
+Secuencia 3 eventos: 5233 - densidad: 0,5278
+Secuencia 4 eventos: 4960 - densidad: 0,5000
+Secuencia 5 eventos: 4876 - densidad: 0,4916
+Secuencia 6 eventos: 4888 - densidad: 0,4928
+Secuencia 7 eventos: 5034 - densidad: 0,5076
+Secuencia 8 eventos: 5106 - densidad: 0,5148
+Secuencia 9 eventos: 4897 - densidad: 0,4936
+Secuencia 10 eventos: 4573 - densidad: 0,4611
+Secuencia 11 eventos: 5071 - densidad: 0,5112
+Secuencia 12 eventos: 4847 - densidad: 0,4887
+Secuencia 13 eventos: 5408 - densidad: 0,5452
+Secuencia 14 eventos: 5166 - densidad: 0,5209
+Secuencia 15 eventos: 5151 - densidad: 0,5194
+Secuencia 16 eventos: 4826 - densidad: 0,4867
+Secuencia 17 eventos: 5009 - densidad: 0,5049
+Secuencia 18 eventos: 4942 - densidad: 0,4984
+Secuencia 19 eventos: 5258 - densidad: 0,5301
+Secuencia 20 eventos: 4981 - densidad: 0,5022
+Secuencia 21 eventos: 5141 - densidad: 0,5183
+Secuencia 22 eventos: 5141 - densidad: 0,5184
+Secuencia 23 eventos: 5157 - densidad: 0,5199
+Secuencia 24 eventos: 5019 - densidad: 0,5061
+Secuencia 25 eventos: 5177 - densidad: 0,5221
+Secuencia 26 eventos: 5342 - densidad: 0,5386
+Secuencia 27 eventos: 5056 - densidad: 0,5098
+Secuencia 28 eventos: 5101 - densidad: 0,5144
+Secuencia 29 eventos: 4964 - densidad: 0,5005
+Suma un total de 151768 eventos.
+Densidad media: 0,5101

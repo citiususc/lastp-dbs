@@ -1,0 +1,33 @@
+ESTADISTICAS FINALES
+--------------------
+
+PATRONES
+	Se han generado 1 Patrones
+	Tipo de patrones a generar = Patrones STP. Las instancias de cada patrón se pueden introducir en más de una vez en el mismo sujeto
+	¿Patrones Consecutivos? = 0
+	¿Los patrones deben indicar el instante en el que comienzan? = 0
+	La longitud media inicial de los patrones era de 30, y la longitud media observada es de 13.0
+	La longitud maxima de los patrones es de 13
+	 mingap = 0,	MaxGap = 100
+	El maximo tipo de eventos a usar en el patrón es de 20
+	Duración máxima del patrón (Window) = 80
+	¿Repetir tipos de eventos en los patrones? = 0
+
+
+SECUENCIAS
+	Numero de Secuencias = 30
+	Soporte = 5000
+	El numero promedio de transacciones era de 6000, mientras que finalmente hemos obtenido 3876.2
+	El numero máximo de transacciones esde 8000
+		¿Transacciones de igual longitud? = 0
+		El tamaño promedio de una transaccion es de 2
+		El tamaño máximo de una transacción es de: 4
+		La distancia media de separación entre dos transacciones era de 5, quedando a un valor medio final de 2.0
+		La distancia máxima de separación entre dos transacciones es 10
+	La máxima duración temporal que puede alcanzar una secuencia es de 10000
+
+EVENTOS
+	El dominio de los eventos es de 20 valores
+	El minimo de duración de los eventos es de 0
+	El promedio de duración de los eventos es de 10
+	La duración máxima de la duración de los eventos es de 15

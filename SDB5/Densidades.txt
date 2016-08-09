@@ -1,0 +1,32 @@
+La coleccion consiste en 30 secuencias
+Secuencia 0 eventos: 3241 - densidad: 0.810655327663832
+Secuencia 1 eventos: 3208 - densidad: 0.8030037546933667
+Secuencia 2 eventos: 3150 - densidad: 0.7876969242310577
+Secuencia 3 eventos: 3228 - densidad: 0.807
+Secuencia 4 eventos: 3311 - densidad: 0.8279569892473119
+Secuencia 5 eventos: 3427 - densidad: 0.85675
+Secuencia 6 eventos: 3118 - densidad: 0.7796949237309327
+Secuencia 7 eventos: 3261 - densidad: 0.816066066066066
+Secuencia 8 eventos: 3244 - densidad: 0.8116087065298975
+Secuencia 9 eventos: 3624 - densidad: 0.9069069069069069
+Secuencia 10 eventos: 3351 - densidad: 0.8383787840880661
+Secuencia 11 eventos: 3482 - densidad: 0.870935467733867
+Secuencia 12 eventos: 3212 - densidad: 0.80320080020005
+Secuencia 13 eventos: 3186 - densidad: 0.7970978233675257
+Secuencia 14 eventos: 3190 - densidad: 0.7978989494747374
+Secuencia 15 eventos: 3107 - densidad: 0.7769442360590147
+Secuencia 16 eventos: 3493 - densidad: 0.8734683670917729
+Secuencia 17 eventos: 3658 - densidad: 0.9147286821705426
+Secuencia 18 eventos: 3477 - densidad: 0.8699024268201151
+Secuencia 19 eventos: 3097 - densidad: 0.77425
+Secuencia 20 eventos: 3187 - densidad: 0.7969492373093273
+Secuencia 21 eventos: 3178 - densidad: 0.7946986746686672
+Secuencia 22 eventos: 3285 - densidad: 0.8216608304152077
+Secuencia 23 eventos: 3324 - densidad: 0.8314157078539269
+Secuencia 24 eventos: 3320 - densidad: 0.83
+Secuencia 25 eventos: 3295 - densidad: 0.8247809762202754
+Secuencia 26 eventos: 3593 - densidad: 0.8984746186546637
+Secuencia 27 eventos: 3257 - densidad: 0.8146573286643322
+Secuencia 28 eventos: 3287 - densidad: 0.82175
+Secuencia 29 eventos: 3244 - densidad: 0.811
+Suma un total de 99035 eventos.

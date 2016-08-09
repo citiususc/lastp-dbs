@@ -1,0 +1,32 @@
+La coleccion consiste en 30 secuencias
+Secuencia 0 eventos: 4122 - densidad: 2.061
+Secuencia 1 eventos: 4127 - densidad: 2.0635
+Secuencia 2 eventos: 3885 - densidad: 1.9444444444444444
+Secuencia 3 eventos: 4257 - densidad: 2.1285
+Secuencia 4 eventos: 4287 - densidad: 2.1445722861430716
+Secuencia 5 eventos: 4090 - densidad: 2.0490981963927855
+Secuencia 6 eventos: 4297 - densidad: 2.1549648946840523
+Secuencia 7 eventos: 4412 - densidad: 2.2082082082082084
+Secuencia 8 eventos: 3917 - densidad: 1.9604604604604605
+Secuencia 9 eventos: 4002 - densidad: 2.00400600901352
+Secuencia 10 eventos: 4194 - densidad: 2.097
+Secuencia 11 eventos: 3834 - densidad: 1.9208416833667334
+Secuencia 12 eventos: 4176 - densidad: 2.088
+Secuencia 13 eventos: 4118 - densidad: 2.059
+Secuencia 14 eventos: 4274 - densidad: 2.142355889724311
+Secuencia 15 eventos: 4027 - densidad: 2.0145072536268134
+Secuencia 16 eventos: 4180 - densidad: 2.0952380952380953
+Secuencia 17 eventos: 4014 - densidad: 2.009009009009009
+Secuencia 18 eventos: 4060 - densidad: 2.032032032032032
+Secuencia 19 eventos: 4156 - densidad: 2.078
+Secuencia 20 eventos: 4026 - densidad: 2.013
+Secuencia 21 eventos: 4081 - densidad: 2.0456140350877194
+Secuencia 22 eventos: 4357 - densidad: 2.180680680680681
+Secuencia 23 eventos: 4107 - densidad: 2.0545272636318157
+Secuencia 24 eventos: 4193 - densidad: 2.0996494742113168
+Secuencia 25 eventos: 3892 - densidad: 1.946
+Secuencia 26 eventos: 4005 - densidad: 2.0025
+Secuencia 27 eventos: 3912 - densidad: 1.9599198396793587
+Secuencia 28 eventos: 4375 - densidad: 2.19188376753507
+Secuencia 29 eventos: 4025 - densidad: 2.0145145145145147
+Suma un total de 123402 eventos.
